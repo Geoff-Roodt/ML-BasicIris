@@ -3807,11 +3807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TRAINING\\BasicIris\\IrisBasic\\IrisBasic.csproj",
+      "projectUniqueName": "D:\\TRAINING\\BasicIris\\Source\\IrisBasic\\IrisBasic.csproj",
       "projectName": "IrisBasic",
-      "projectPath": "D:\\TRAINING\\BasicIris\\IrisBasic\\IrisBasic.csproj",
+      "projectPath": "D:\\TRAINING\\BasicIris\\Source\\IrisBasic\\IrisBasic.csproj",
       "packagesPath": "C:\\Users\\GeoffRoodt\\.nuget\\packages\\",
-      "outputPath": "D:\\TRAINING\\BasicIris\\IrisBasic\\obj\\",
+      "outputPath": "D:\\TRAINING\\BasicIris\\Source\\IrisBasic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
